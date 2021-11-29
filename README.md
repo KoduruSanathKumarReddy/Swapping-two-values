@@ -27,7 +27,7 @@ b=int(input())
 print('Swapped values are:',a,b)
 ~~~
 ## OUTPUT:
-
+![OutPut1](./swap.png)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
